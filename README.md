@@ -1,4 +1,4 @@
-<h1>👋 Hola, bienvenido a mi perfil</h1>
+<h1>👋 Hola,!!!</h1>
 
 <p>
 Soy <b>Francisco Javier Yañez Corrales</b>, Analista e Ingeniero en Informática, 
@@ -46,7 +46,7 @@ orientadas a la eficiencia y la mejora de procesos.
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" / >
   </a>
 </p>
 
